@@ -1,6 +1,6 @@
 ## Hi, I am Van San Jente! 
 </br>
-<h1> jente jente </h1>
+
  <div>
   <a href="https://github.com/jentevs">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jentevs&layout=compact&langs_count=16&theme=dracula"/>
@@ -34,6 +34,5 @@
  </br>
 </br>
  
-  ![Snake animation](https://github.com/jentevs/jentevs/blob/output/github-contribution-grid-snake.svg)
  
 </div>
